@@ -89,10 +89,7 @@ text-align: center;
 
 
 }
-.carousel-item img{
-    object-fit: cover;
-    
-}
+
 .card{
     
     margin: auto;    
