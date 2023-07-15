@@ -285,20 +285,12 @@ text-align: center;
 .imagencontenedor {
     height: 300px;
 }
+
 .contenedor-imagen { 
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 10px;  
+  grid-gap: 10px;    
 }
-.carousel-item img {
-    object-fit: cover;
-    
-}
-
-
-   
- 
-
 
 .fotocrema{
     width: 1200px;
