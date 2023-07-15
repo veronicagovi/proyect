@@ -89,7 +89,10 @@ text-align: center;
 
 
 }
-
+#carouselExample .carousel-item img {
+    object-fit: contain;
+    height: 400px;
+     }
 .card{
     
     margin: auto;    
