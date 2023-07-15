@@ -90,7 +90,7 @@ text-align: center;
 
 }
 #carouselExample .carousel-item img {
-    object-fit: contain;
+    object-fit: cover;
     height: 400px;
      }
 .card{
