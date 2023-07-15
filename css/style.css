@@ -78,17 +78,9 @@ text-align: center;
     margin: 30px ;
     padding: 25px;
     width: 100%;
-    
-    
- 
-
+  
 }
-.contenedor{
-    
-    background-color: rgba(229, 98, 174, 0.7); 
 
-
-}
 .carousel-image {
     object-fit: contain;
     max-height: 400px;
