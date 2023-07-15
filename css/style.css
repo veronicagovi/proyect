@@ -85,10 +85,13 @@ text-align: center;
 }
 .contenedor{
     
-    background-color: rgba(229, 98, 174, 0.7);
+    background-color: rgba(229, 98, 174, 0.7); 
+
+
+}
+.carousel-item img{
+    object-fit: cover;
     
-
-
 }
 .card{
     
