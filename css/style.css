@@ -89,6 +89,16 @@ text-align: center;
     object-fit: cover;
     max-height: 48rem;
      }
+     .carousel-caption {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 10px;
+        color: white;
+        text-align: center;
+     }     
 .card{
     
     margin: auto;    
