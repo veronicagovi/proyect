@@ -89,6 +89,10 @@ text-align: center;
 
 
 }
+.carousel-image {
+    object-fit: contain;
+    max-height: 400px;
+     }
 #carouselExample .carousel-item img {
     object-fit: cover;
     height: 400px;
