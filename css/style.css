@@ -297,7 +297,9 @@ text-align: center;
     line-height: 60px;
 }
 .imagencontenedor {
-    height: 300px;
+    width: 100%;
+    height: 200px; 
+    object-fit: cover;
 }
 
 .contenedor-imagen { 
